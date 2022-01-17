@@ -1,2 +1,3 @@
 # tulips-and-chimneys
-Scans of E.E. Cummings’ first published book of verse
+
+Page scans of E.E. Cummings’ first published book of verse
